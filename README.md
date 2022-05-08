@@ -1,1 +1,1 @@
-# CNN-projects-2
+# Deep Learning Projects
