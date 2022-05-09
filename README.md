@@ -5,3 +5,5 @@ In this repository, we apply various models to problems in practice and build we
 1- Recommendaation System
 
 2- Residual Networks
+
+3- Text Generation using LSTM
